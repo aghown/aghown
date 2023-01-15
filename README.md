@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Hanna 👽
 
 
-![Aghown Github stats](https://github-readme-stats.vercel.app/api?username=aghown&show_icons=true&theme=radical)
+![Aghown Github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=aghown&show_icons=true&theme=radical)
 
 ## Tecnologias que uso no meu dia a dia
 
